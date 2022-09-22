@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+
+  </head>
+
+<style 
+
+       type="text/css"> .gold{color: gold; font-size: 64px; text-align: center; font-family: 'Times New Roman';}
+                        
+</style>
+
+<body>
+
+	<h1 class="gold" font-size:26px > Всё обо всём </h1>
+
+	<u style="color: #a204c9fe;"><blockquote style="color: #00ff48fe; font-size: 37px; text-align: center; font-family: Andale Mono, monospace;">«Никогда не ошибается тот, кто ничего не делает»</blockquote></u>
+
+	<p style="margin: 27px; color: #a8ab0f; font-family: URW Chancery L, cursive;">Добавление заголовка на веб-страницу осуществляется при помощи тега
+                                                                   hN hN где N – индекс, от 1 до 6. Чем выше, тем меньше шрифт по умолчанию.
+                                                                   Добавление абзацев осуществляется при помощи открывающего и закрывающего тега
+                                                                   p, с помощью этого элемента и псевдоэлемента :before и :after можно оформить
+                                                                   цитату, также это можно сделать при помощи тега blockquote</p>
+
+    <table width="500" bgcolor="#b9d5f0" border="1" align="center" cellspasing="1" cellpadding="10" rules="rows">
+
+<caption><b>2022 Сентябрь</b></caption>
+
+<tr><th></th><th><div style="font-size:12px">Пн</th><th><div style="font-size:12px">Вт</th><th><div style="font-size:12px">Ср</th><th><div style="font-size:12px">Чт</th><th><div style="font-size:12px">Пт</th><th><div style="font-size:12px">Сб</th><th><div style="font-size:12px">Вс</th></tr>
+
+<tr><th><div style="font-size:12px">35</th><th><font color="grey">29</font></th><th><font color="grey">30</font></th><th><font color="grey">31</font></th><th>1</th><th>2</th><th>3</th><th><font color="red">4</font></th></tr>
+
+<tr><th><div style="font-size:12px">36</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th><font color="red">11</font></th></tr>
+
+<tr><th><div style="font-size:12px">37</th><th>12</th><th>13</th><th>14</th><th>15</th><th>16</th><th>17</th><th><font color="red">18</font></th></tr>
+
+<tr><th><div style="font-size:12px">38</th><th>19</th><th>20</th><th><b><i>21</i></b></th><th>22</th><th>23</th><th>24</th><th><font color="red">25</font></th></tr>
+
+<tr><th><div style="font-size:12px">39</th><th>26</th><th>27</th><th>28</th><th>29</th><th>30</th><th><font color="grey">1</font></th><th><font color="grey">2</font></th></tr>
+
+</table>
+
+
+
+ </body>
+</html>
